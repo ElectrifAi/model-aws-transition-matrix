@@ -8,3 +8,4 @@ Transaction Matrix model is used to generate long-term (usually 360 months) defa
 
 SKU: TRNSM-PS-RMG-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-noj4y3ufdve6q
